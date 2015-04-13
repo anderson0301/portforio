@@ -1,0 +1,43 @@
+/* -----------------------------------------------------------
+    Default
+----------------------------------------------------------- */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, strong, sub, sup, tt, var, ul, ol, li, dl, dt, dd, form, fieldset, legend, label, table, caption, tbody, tfoot, thead, tr, th, td, header, main, nav, footer {
+  margin: 0;
+  padding: 0; }
+
+header, nav, footer {
+  display: block; }
+
+body {
+  color: #333;
+  font-size: 1.2rem;
+  font-family: Meiryo,'Hiragino Kaku Gothic Pro',sans-serif;
+  line-height: 1.6; }
+
+ul {
+  list-style-type: none; }
+
+ol {
+  list-style-type: decimal; }
+
+img {
+  border: 0;
+  line-height: 1; }
+
+a {
+  color: #006599; }
+
+a:visited {
+  color: #5140b8; }
+
+a:hover, a:focus {
+  color: #008194; }
+
+a:active {
+  color: #006599; }
+
+em {
+  font-style: normal; }
+
+strong {
+  font-weight: bold; }

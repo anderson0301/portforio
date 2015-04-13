@@ -1,0 +1,20 @@
+{
+  "name": "portforio",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-pleeease": "^1.2.0",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-webserver": "^0.9.0"
+  }
+}
