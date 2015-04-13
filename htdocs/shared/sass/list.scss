@@ -15,3 +15,43 @@ ul.list-notice-01{
 	}
 
 }
+
+ul.list-products{
+	padding: 30px;
+	border: 1px solid #e3e3e3;
+	position: relative;
+	li{
+		div.lyt-image{
+		@include clearfix;
+			div.image{
+			float: left;
+			width: 40%;
+			}
+			div.column{
+			float: right;
+			width: 60%;
+			}
+		}
+	}
+
+	li.prev,
+	li.next{
+	position: absolute;
+	top: 40%;
+	background: url(../images/bg-header-dot.png);
+	background-color: rgba(0,0,0,0.40);
+	font-size: 0;
+		a{
+			display: block;
+			padding:40px 20px; 
+		}
+	}
+
+	li.prev{
+	left: -20px;	
+	}
+	li.next{
+	right: 20px;
+	}
+
+}
