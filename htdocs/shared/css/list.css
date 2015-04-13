@@ -1,12 +1,1 @@
-/* -----------------------------------------------------------
-    List
------------------------------------------------------------ */
-ul.list-notice-01 {
-  margin-bottom: 20px; }
-ul.list-notice-01 li {
-  padding: 0 0 0 1.3em;
-  position: relative;
-  color: #666; }
-ul.list-notice-01 li span {
-  position: absolute;
-  left: 0; }
+ul.list-notice-01{margin-bottom:20px}ul.list-notice-01 li{padding:0 0 0 1.3em;position:relative;color:#666}ul.list-notice-01 li span{position:absolute;left:0}
