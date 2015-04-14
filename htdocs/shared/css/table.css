@@ -1,1 +1,64 @@
-table.tbl-01{border-collapse:collapse}table.tbl-01 tr th{padding:20px 20px;vertical-align:top;text-align:left}table.tbl-01 tr td{padding:20px;vertical-align:top;border-left:1px dotted #000}table.tbl-02{width:100%;margin-bottom:20px;border-collapse:collapse}table.tbl-02 tr th{padding:20px;border:1px solid #e6e6e6;background-color:#fff;text-align:left;font-weight:normal;vertical-align:top}table.tbl-02 tr th span{color:#ff0000;display:inline-block;margin-left:10px}table.tbl-02 tr td{padding:20px;border:1px solid #e6e6e6;background-color:#fff;vertical-align:top}table.tbl-02 tr td input{padding:6px 5px;border-radius:3px;border:1px solid #ccc;-webkit-box-shadow:1px 1px 1px 1px rgba(243,243,243,0.9) inset;box-shadow:1px 1px 1px 1px rgba(243,243,243,0.9) inset}table.tbl-02 tr td input.size-s{width:50%}table.tbl-02 tr td input.size-L{width:85%}table.tbl-02 tr td textarea{width:98%;height:10em;padding:6px 5px;border-radius:3px;border:1px solid #ccc;-webkit-box-shadow:1px 1px 1px 1px rgba(243,243,243,0.9) inset;box-shadow:1px 1px 1px 1px rgba(243,243,243,0.9) inset}.btn-submit{text-align:center}
+table.tbl-01 {
+  border-collapse: collapse;
+}
+table.tbl-01 tr th {
+  padding: 20px 20px;
+  vertical-align: top;
+  text-align: left;
+}
+table.tbl-01 tr td {
+  padding: 20px;
+  vertical-align: top;
+  border-left: 1px dotted #000;
+}
+
+table.tbl-02 {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+table.tbl-02 tr th {
+  padding: 20px;
+  border: 1px solid #e6e6e6;
+  background-color: #fff;
+  text-align: left;
+  font-weight: normal;
+  vertical-align: top;
+}
+table.tbl-02 tr th span {
+  color: #ff0000;
+  display: inline-block;
+  margin-left: 10px;
+}
+table.tbl-02 tr td {
+  padding: 20px;
+  border: 1px solid #e6e6e6;
+  background-color: #fff;
+  vertical-align: top;
+}
+table.tbl-02 tr td input {
+  padding: 6px 5px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: 1px 1px 1px 1px rgba(243, 243, 243, 0.9) inset;
+  box-shadow: 1px 1px 1px 1px rgba(243, 243, 243, 0.9) inset;
+}
+table.tbl-02 tr td input.size-s {
+  width: 50%;
+}
+table.tbl-02 tr td input.size-L {
+  width: 85%;
+}
+table.tbl-02 tr td textarea {
+  width: 98%;
+  height: 10em;
+  padding: 6px 5px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: 1px 1px 1px 1px rgba(243, 243, 243, 0.9) inset;
+  box-shadow: 1px 1px 1px 1px rgba(243, 243, 243, 0.9) inset;
+}
+
+.btn-submit {
+  text-align: center;
+}

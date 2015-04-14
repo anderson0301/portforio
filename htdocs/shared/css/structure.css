@@ -1,23 +1,23 @@
 /*
 Error: Undefined mixin 'clearfix'.
-        on line 29 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss, in `clearfix'
-        from line 29 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss
+        on line 26 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss, in `clearfix'
+        from line 26 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss
 
-24: 
-25: 	nav{
-26: 		max-width: 960px;
-27: 		margin:20px auto 0 auto; 
-28: 		ul{
-29: 		@include clearfix;
-30: 			li{
-31: 			float: left;
-32: 			width: 16.55555%;
-33: 			border-right: 1px solid #5b5c61;
-34: 			font-size: 0.8rem;
+21: 
+22: 	nav{
+23: 		max-width: 960px;
+24: 		margin:20px auto 0 auto; 
+25: 		ul{
+26: 		@include clearfix;
+27: 			li{
+28: 			float: left;
+29: 			width: 16.55555%;
+30: 			border-right: 1px solid #5b5c61;
+31: 			font-size: 0.8rem;
 
 Backtrace:
-C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss:29:in `clearfix'
-C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss:29
+C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss:26:in `clearfix'
+C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss:26
 C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/tree/visitors/perform.rb:338:in `block in visit_mixin'
 C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/stack.rb:98:in `block in with_mixin'
 C:/Ruby21-x64/lib/ruby/gems/2.1.0/gems/sass-3.4.9/lib/sass/stack.rb:115:in `with_frame'
@@ -92,4 +92,4 @@ C:/Ruby21-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined mixin 'clearfix'.\A         on line 29 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss, in `clearfix'\A         from line 29 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss\A \A 24: \A 25: 	nav{\A 26: 		max-width: 960px;\A 27: 		margin:20px auto 0 auto; \A 28: 		ul{\A 29: 		@include clearfix;\A 30: 			li{\A 31: 			float: left;\A 32: 			width: 16.55555%;\A 33: 			border-right: 1px solid #5b5c61;\A 34: 			font-size: 0.8rem;"; }
+  content: "Error: Undefined mixin 'clearfix'.\A         on line 26 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss, in `clearfix'\A         from line 26 of C:/Users/mitsue/AppData/Local/Temp/gulp-ruby-sass/structure.scss\A \A 21: \A 22: 	nav{\A 23: 		max-width: 960px;\A 24: 		margin:20px auto 0 auto; \A 25: 		ul{\A 26: 		@include clearfix;\A 27: 			li{\A 28: 			float: left;\A 29: 			width: 16.55555%;\A 30: 			border-right: 1px solid #5b5c61;\A 31: 			font-size: 0.8rem;"; }
