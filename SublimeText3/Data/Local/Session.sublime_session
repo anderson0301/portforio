@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/works/portforio/htdocs"
 	],
 	"last_version": 3083,
 	"last_window_id": 1,
@@ -20,13 +21,11 @@
 			"buffers":
 			[
 				{
-					"contents": "Package Control Messages\n========================\n\nJapanize:\n--------\n\n  Japanese menu for Sublime Text 3  \n    \n  Sublime Text 3の日本語化プラグインです。  \n  [ゆーがいぶろぐ](http://blog.huwy.org/article/292827228.html)さんの日本語化ファイルがベースです。  \n    \n  適用手順  \n  １．C:\\Users\\ユーザー名\\AppData\\Roaming\\Sublime Text 3\\Packages\\Japanizeにインストールされている*.jpファイルを、  \n   　　　C:\\Users\\ユーザー名\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default  \n  　　にコピーします。※Defaultフォルダがない場合は作成してください。  \n  ２．コピーしたファイルをオリジナルのファイル（.jpが付かないファイル）と置き換えます。（念のため、オリジナルのファイルが有る場合は.orgなどを付けて保管しておきましょう。）  \n  ３．C:\\Users\\ユーザー名\\AppData\\Roaming\\Sublime Text 3\\Packages\\Japanize\\Main.sublime-menu（.jpが付かない方）を、  \n   　　　C:\\Users\\ユーザー名\\AppData\\Roaming\\Sublime Text 3\\Packages\\User  \n  　　にコピーします。すると、他のプラグインで上書きされてしまっているトップメニューも日本語化されます。  \n  以上です。  \n  ",
+					"file": "/D/works/portforio/htdocs/shared/js/run.js",
 					"settings":
 					{
-						"buffer_size": 771,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"scratch": true
+						"buffer_size": 557,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -65,8 +64,19 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/works/portforio/htdocs",
+				"/D/works/portforio/htdocs/shared",
+				"/D/works/portforio/htdocs/shared/css",
+				"/D/works/portforio/htdocs/shared/js",
+				"/D/works/portforio/htdocs/shared/sass"
+			],
 			"file_history":
 			[
+				"/D/works/portforio/htdocs/shared/sass/basic.scss",
+				"/D/works/portforio/htdocs/shared/sass/heading.scss",
+				"/D/works/portforio/htdocs/shared/css/basic.css"
 			],
 			"find":
 			{
@@ -98,6 +108,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\works\\portforio\\htdocs"
+				}
+			],
 			"groups":
 			[
 				{
@@ -106,25 +122,26 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/D/works/portforio/htdocs/shared/js/run.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 771,
+								"buffer_size": 557,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										771,
-										771
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
