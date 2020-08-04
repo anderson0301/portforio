@@ -1,1 +1,0 @@
-git clone -b gh-pages https://github.com/anderson0301/portforio.git
